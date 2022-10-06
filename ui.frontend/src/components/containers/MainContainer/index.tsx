@@ -9,10 +9,10 @@ import Header from "../../micro/Header";
 import { Content, Main, TextContainer } from "./style";
 
 const MainContainerEditConfig = {
-  emptyLabel: "Vazio",
+  emptyLabel: "Preencha os campos necessários",
   
   isEmpty: function (props: any) {
-    return !props || !props.title || !props.text || !props.buttonLink || !props.buttonText;
+    return !props || !props.headerText || !props.img || props.title || !props.text || !props.buttonLink || !props.buttonText;
   },
 };
 
