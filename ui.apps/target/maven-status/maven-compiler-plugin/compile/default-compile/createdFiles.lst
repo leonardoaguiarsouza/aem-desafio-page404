@@ -1,0 +1,7 @@
+org\apache\sling\scripting\sightly\apps\desafio__002d__page404__002d__aem\clientlibs\clientlib__002d__react\resources\index__002e__html.class
+org\apache\sling\scripting\sightly\apps\desafio__002d__page404__002d__aem\components\page\customheaderlibs__002e__html.class
+org\apache\sling\scripting\sightly\apps\desafio__002d__page404__002d__aem\components\helloworld\helloworld__002e__html.class
+org\apache\sling\scripting\sightly\apps\desafio__002d__page404__002d__aem\components\xfpage\body__002e__html.class
+org\apache\sling\scripting\sightly\apps\desafio__002d__page404__002d__aem\components\xfpage\customheaderlibs__002e__html.class
+org\apache\sling\scripting\sightly\apps\desafio__002d__page404__002d__aem\components\page\customfooterlibs__002e__html.class
+org\apache\sling\scripting\sightly\apps\desafio__002d__page404__002d__aem\components\xfpage\customfooterlibs__002e__html.class

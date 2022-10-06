@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 17
+Implementation-Title: Desafio Page 404 AEM - UI config
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.adobe.aem.desafio.page404:desafio-page404.aem.ui
+ .config:1.0.0-SNAPSHOT
+Content-Package-Description: UI config package for Desafio Page 404 AEM
+Content-Package-Roots: /apps/desafio-page404-aem/osgiconfig
+

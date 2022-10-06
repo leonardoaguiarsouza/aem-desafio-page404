@@ -1,0 +1,5 @@
+#File edited by the Apache Sling Content Package to Sling Feature converter
+#Thu Oct 06 11:28:06 BRT 2022
+author=desafio-page404.aem.all-author.json
+publish=desafio-page404.aem.all-publish.json
+(default)=desafio-page404.aem.all.json

@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "desafio-page404-aem/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}

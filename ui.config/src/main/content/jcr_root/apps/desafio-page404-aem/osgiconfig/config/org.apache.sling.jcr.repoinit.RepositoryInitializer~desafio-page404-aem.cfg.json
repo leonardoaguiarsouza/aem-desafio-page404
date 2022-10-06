@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/desafio-page404-aem",
+        "create path (nt:unstructured) /content/dam/desafio-page404-aem/jcr:content",
+        "set properties on /content/dam/desafio-page404-aem/jcr:content\n  set cq:conf{String} to /conf/desafio-page404-aem\n  set jcr:title{String} to \"Desafio Page 404 AEM\"\nend"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "id":"com.adobe.aem.desafio.page404:desafio-page404.aem.all:slingosgifeature:publish:1.0.0-SNAPSHOT",
+  "configurations":  {
+    "org.apache.sling.jcr.resource.internal.JcrResourceResolverFactoryImpl":    {
+      "resource.resolver.mapping":[
+        "/content/desafio-page404-aem/</",
+        "/:/"
+      ],
+      ":configurator:content-package-origins":"com.adobe.aem.desafio.page404:desafio-page404.aem.all:1.0.0-SNAPSHOT|com.adobe.aem.desafio.page404:desafio-page404.aem.ui.config:1.0.0-SNAPSHOT"
+    }
+  }
+}

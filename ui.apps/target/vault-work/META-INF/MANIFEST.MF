@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 17
+Implementation-Title: Desafio Page 404 AEM - UI apps
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: application
+Content-Package-Id: com.adobe.aem.desafio.page404:desafio-page404.aem.ui
+ .apps:1.0.0-SNAPSHOT
+Content-Package-Description: UI apps package for Desafio Page 404 AEM
+Content-Package-Roots: /apps/desafio-page404-aem/clientlibs,/apps/desafi
+ o-page404-aem/components,/apps/desafio-page404-aem/i18n
+Import-Package: com.adobe.aem.desafio.page404.core.models;version="[1.0.
+ 0,2.0.0)",com.adobe.aem.spa.project.core.models;version="[1.1.0,2.0.0)"
+ ,org.apache.sling.scripting.sightly;version="[2.0.0,3.0.0)"
+
