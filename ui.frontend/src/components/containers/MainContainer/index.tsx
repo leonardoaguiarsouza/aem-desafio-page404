@@ -12,7 +12,7 @@ const MainContainerEditConfig = {
   emptyLabel: "Preencha os campos necessários",
   
   isEmpty: function (props: any) {
-    return !props || !props.headerText || !props.img || props.title || !props.text || !props.buttonLink || !props.buttonText;
+    return !props || !props.headerText || !props.img || !props.title || !props.text || !props.buttonLink || !props.buttonText;
   },
 };
 
