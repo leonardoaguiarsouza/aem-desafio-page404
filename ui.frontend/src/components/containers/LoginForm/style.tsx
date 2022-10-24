@@ -28,7 +28,8 @@ export const Content = styled.div`
   flex-grow: 1;
 
   & *:not(img) {
-    width: 379px;
+    max-width: 379px;
+    width: 90vw;
     font-family: 'Poppins';
     font-style: normal;
     color: #E0E0E0;

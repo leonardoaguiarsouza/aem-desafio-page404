@@ -30,7 +30,7 @@ const LoginForm = (props: any) => {
   const [isLoginValid, setIsLoginValid] = useState<boolean>(true);
 
   const authenticate = (user: string, password: string) => {
-    if (user == "admin" && password == "admin") {
+    if (user === "admin" && password === "admin") {
       return true;
     }
 
@@ -45,7 +45,7 @@ const LoginForm = (props: any) => {
     setIsLoginValid(isLoginSuccessful);
     
     if (isLoginSuccessful) {
-      history.push(`${baseUrl}/${props.pageToRedirect}.html`);
+      history.push(`${baseUrl}/${props.pageToRedirect}.html`, {isUserAuthenticated: true});
     }
   }
 

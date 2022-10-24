@@ -43,6 +43,8 @@ Service-Component: OSGI-INF/com.adobe.aem.desafio.page404.core.filters
  .core.schedulers.SimpleScheduledTask.xml,OSGI-INF/com.adobe.aem.desaf
  io.page404.core.servlets.SimpleServlet.xml
 Sling-Model-Classes: com.adobe.aem.desafio.page404.core.models.HelloWo
- rldModel,com.adobe.aem.desafio.page404.core.models.impl.MainContainer
- Impl,com.adobe.aem.desafio.page404.core.models.impl.TextComponentImpl
+ rldModel,com.adobe.aem.desafio.page404.core.models.impl.HomepageImpl,
+ com.adobe.aem.desafio.page404.core.models.impl.LoginFormImpl,com.adob
+ e.aem.desafio.page404.core.models.impl.MainContainerImpl,com.adobe.ae
+ m.desafio.page404.core.models.impl.TextComponentImpl
 

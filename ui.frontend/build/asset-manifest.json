@@ -1,33 +1,34 @@
 {
   "files": {
     "main.css": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/css/main.479dff51.chunk.css",
-    "main.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/main.4afc277a.chunk.js",
-    "main.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/main.4afc277a.chunk.js.map",
-    "runtime-main.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/runtime-main.d929fb4d.js",
-    "runtime-main.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/runtime-main.d929fb4d.js.map",
-    "static/js/2.f4a3484b.chunk.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/2.f4a3484b.chunk.js",
-    "static/js/2.f4a3484b.chunk.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/2.f4a3484b.chunk.js.map",
+    "main.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/main.6cc9f85f.chunk.js",
+    "main.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/main.6cc9f85f.chunk.js.map",
+    "runtime-main.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/runtime-main.ba3ae16d.js",
+    "runtime-main.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/runtime-main.ba3ae16d.js.map",
+    "static/js/2.c8a98981.chunk.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/2.c8a98981.chunk.js",
+    "static/js/2.c8a98981.chunk.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/2.c8a98981.chunk.js.map",
     "static/js/3.827abd53.chunk.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/3.827abd53.chunk.js",
     "static/js/3.827abd53.chunk.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/3.827abd53.chunk.js.map",
     "static/css/4.61b50e66.chunk.css": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/css/4.61b50e66.chunk.css",
     "static/js/4.77aaf936.chunk.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/4.77aaf936.chunk.js",
     "static/js/4.77aaf936.chunk.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/4.77aaf936.chunk.js.map",
-    "static/js/5.d1c5f9be.chunk.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/5.d1c5f9be.chunk.js",
-    "static/js/5.d1c5f9be.chunk.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/5.d1c5f9be.chunk.js.map",
+    "static/js/5.56979429.chunk.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/5.56979429.chunk.js",
+    "static/js/5.56979429.chunk.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/5.56979429.chunk.js.map",
     "static/js/6.3d722be9.chunk.js": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/6.3d722be9.chunk.js",
     "static/js/6.3d722be9.chunk.js.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/6.3d722be9.chunk.js.map",
     "index.html": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/index.html",
     "static/css/4.61b50e66.chunk.css.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/css/4.61b50e66.chunk.css.map",
     "static/css/main.479dff51.chunk.css.map": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/css/main.479dff51.chunk.css.map",
-    "static/js/2.f4a3484b.chunk.js.LICENSE.txt": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/2.f4a3484b.chunk.js.LICENSE.txt",
+    "static/js/2.c8a98981.chunk.js.LICENSE.txt": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/2.c8a98981.chunk.js.LICENSE.txt",
     "static/js/3.827abd53.chunk.js.LICENSE.txt": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/js/3.827abd53.chunk.js.LICENSE.txt",
+    "static/media/bgImg.54bc3577.png": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/media/bgImg.54bc3577.png",
     "static/media/passwordIcon.9ad95b0d.svg": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/media/passwordIcon.9ad95b0d.svg",
     "static/media/userIcon.548bc619.svg": "/etc.clientlibs/desafio-page404-aem/clientlibs/clientlib-react/resources/static/media/userIcon.548bc619.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d929fb4d.js",
-    "static/js/2.f4a3484b.chunk.js",
+    "static/js/runtime-main.ba3ae16d.js",
+    "static/js/2.c8a98981.chunk.js",
     "static/css/main.479dff51.chunk.css",
-    "static/js/main.4afc277a.chunk.js"
+    "static/js/main.6cc9f85f.chunk.js"
   ]
 }

@@ -13,7 +13,7 @@ export const Input = styled.div`
     & input {
         height: 60px;
         background: #26292C;
-        border: 1px solid ${(props) => props.isLoginValid ? "#FFFFFF" : "red"};
+        border: 1px solid ${(props) => props.isLoginValid ? "#FFFFFF" : "#E9B425"};
         border-radius: 50px;
         font-weight: 400;
         font-size: 16px;

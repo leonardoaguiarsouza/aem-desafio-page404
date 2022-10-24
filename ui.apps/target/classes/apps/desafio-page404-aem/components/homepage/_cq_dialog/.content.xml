@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:granite="http://www.adobe.com/jcr/granite/1.0"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="Properties"
+    sling:resourceType="cq/gui/components/authoring/dialog">
+    <content
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="granite/ui/components/coral/foundation/fixedcolumns">
+        <items jcr:primaryType="nt:unstructured">
+            <column
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="granite/ui/components/coral/foundation/container">
+                <items jcr:primaryType="nt:unstructured">
+                    <enTextBlock1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                        fieldLabel="English Text of block 1"
+                        name="./enTextBlock1/"/>
+                    <ptTextBlock1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                        fieldLabel="Portuguese Text of block 1"
+                        name="./ptTextBlock1/"/>
+                    <enTextBlock2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                        fieldLabel="English Text of block 2"
+                        name="./enTextBlock2/"/>
+                    <ptTextBlock2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                        fieldLabel="Portuguese Text of block 2"
+                        name="./ptTextBlock2/"/>
+                    <enTextBlock3
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                        fieldLabel="English Text of block 3"
+                        name="./enTextBlock3/"/>
+                    <ptTextBlock3
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                        fieldLabel="Portuguese Text of block 3"
+                        name="./ptTextBlock3/"/>
+                    <enTextBlock4
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                        fieldLabel="English Text of block 4"
+                        name="./enTextBlock4/"/>
+                    <ptTextBlock4
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                        fieldLabel="Portuguese Text of block 4"
+                        name="./ptTextBlock4/"/>
+                    <logoImg
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="cq/gui/components/authoring/dialog/fileupload"
+                        allowUpload="{Boolean}false"
+                        autoStart="{Boolean}false"
+                        fieldDescription="Logo Image"
+                        fieldLabel="Logo Image"
+                        fileNameParameter="./logoImg"
+                        fileReferenceParameter="./logoImg"
+                        mimeTypes="[image]"
+                        multiple="{Boolean}false"
+                        name="./logoImg/"
+                        title="Upload Logo Image"
+                        uploadUrl="${suffix.path}"
+                        useHTML5="{Boolean}true"/>
+                </items>
+            </column>
+        </items>
+    </content>
+</jcr:root>

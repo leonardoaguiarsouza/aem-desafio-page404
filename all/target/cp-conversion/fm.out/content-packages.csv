@@ -1,4 +1,4 @@
-# File created on Thu Oct 06 12:11:42 BRT 2022 by the Apache Sling Content Package to Sling Feature converter
+# File created on Mon Oct 24 11:09:34 BRT 2022 by the Apache Sling Content Package to Sling Feature converter
 # content-package path, content-package ID, content-package type, content-package parent ID, path in parent content-package, absolute path
 C:\Users\leonardo.aguiar\Documents\Projetos\desafio-page404.aem\all\target\desafio-page404.aem.all-1.0.0-SNAPSHOT.zip,com.adobe.aem.desafio.page404:desafio-page404.aem.all:1.0.0-SNAPSHOT,CONTAINER,,,
 C:\Users\leonardo.aguiar\Documents\Projetos\desafio-page404.aem\all\target\desafio-page404.aem.all-1.0.0-SNAPSHOT.zip,com.adobe.aem.desafio.page404:desafio-page404.aem.ui.config:1.0.0-SNAPSHOT,CONTAINER,com.adobe.aem.desafio.page404:desafio-page404.aem.all:1.0.0-SNAPSHOT,/jcr_root/apps/desafio-page404-aem-packages/application/install/desafio-page404.aem.ui.config-1.0.0-SNAPSHOT.zip,C:\Users\leonardo.aguiar\Documents\Projetos\desafio-page404.aem\all\target\desafio-page404.aem.all-1.0.0-SNAPSHOT.zip!/jcr_root/apps/desafio-page404-aem-packages/application/install/desafio-page404.aem.ui.config-1.0.0-SNAPSHOT.zip
